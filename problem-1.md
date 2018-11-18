@@ -25,3 +25,7 @@
 **May just be discount, that is why status = pass.
 <br>
 ***Same issue, as with TC01, even without Warehouse Destination change.
+
+<br>
+
+P.S. About TC16, TC17, TC18. I was JUST interested. 
